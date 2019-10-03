@@ -43,4 +43,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral research scholar at North Carolina State University and a visiting scholar at Kansas State University. My research interests include integrated weed management, herbicide efficacy and carryover, crop tolerance to herbicides, crop/weed competition, weed biology, and mechanisms of herbicide resistance.
+I am a postdoctoral research scholar at North Carolina State University. My research interests include integrated weed management, herbicide efficacy and carryover, crop tolerance to herbicides, crop/weed competition, weed biology, and mechanisms of herbicide resistance.

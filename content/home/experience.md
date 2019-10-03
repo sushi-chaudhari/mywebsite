@@ -18,9 +18,9 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Postdoctoral Research and Visiting Scholar"
-  company = "North Carolina State University and Kansas State University"
-  company_url = "https://www.k-state.edu/"
+  title = "Postdoctoral Research Scholar"
+  company = "North Carolina State University"
+  company_url = "https://www.ncsu.edu"
   location = "Kansas"
   date_start = "2018-06-01"
   date_end = ""
