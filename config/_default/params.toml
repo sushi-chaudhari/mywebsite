@@ -60,7 +60,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "schaudh@ncsu.edu"
 #phone = "888 888 88 88"
-address = "Throckmorton Hall, Kansas State University, Manhattan, 66502, USA"
+address = "Department of Crop and Soil Sciences, North Carolina State University, Raleigh, NC 27695, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
