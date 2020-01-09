@@ -41,7 +41,6 @@ social:
 superuser: true
 user_groups:
 - Principal Investigator
-- Researchers
 ---
 
 I am an assistant professor in the Department of Horticulutre at Michigan State University. My research interests include integrated weed management, herbicide efficacy and carryover, crop tolerance to herbicides, crop/weed competition, weed biology, and mechanisms of herbicide resistance. My lab's main focus is weed management in specialty crops.
