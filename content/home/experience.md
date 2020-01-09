@@ -17,13 +17,30 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Assistant Professor"
+  company = "Michigan State University"
+  company_url = "https://www.msu.edu"
+  location = "Michigan"
+  date_start = "2020-01-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Specialty crops research and extension
+  * Weed science field research
+  * Horticulture weed management
+  * Data analysis
+  """
+  
 [[experience]]
   title = "Postdoctoral Research Scholar"
   company = "North Carolina State University"
   company_url = "https://www.ncsu.edu"
   location = "North Carolina"
   date_start = "2018-06-01"
-  date_end = ""
+  date_end = "2019-12-31"
   description = """
   Responsibilities include:
   
