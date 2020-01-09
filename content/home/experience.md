@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company = "North Carolina State University"
   company_url = "https://www.ncsu.edu"
   location = "North Carolina"
-  date_start = "2018-06-01"
+  date_start = "2015-08-01"
   date_end = "2019-12-31"
   description = """
   Responsibilities include:
@@ -49,15 +49,6 @@ date_format = "Jan 2006"
   * Data analysis
   * Manuscript writing
   """
-
-[[experience]]
-  title = "Postdoctoral Research Scholar"
-  company = "North Carolina State University"
-  company_url = "https://www.ncsu.edu"
-  location = "North Carolina"
-  date_start = "2015-08-01"
-  date_end = "2018-05-31"
-#  description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
   title = "Graduate Research Assistant"
