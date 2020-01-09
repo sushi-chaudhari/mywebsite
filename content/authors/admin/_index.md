@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include integrated weed management, herbicide resistanct, weed biology, and weed
+bio: My research interests include integrated weed management, herbicide resistance, weed biology, and weed
   ecology.
 education:
   courses:
@@ -14,16 +14,17 @@ education:
   - course: Bachelor of Science in Agriculuture
     institution: Punjab Agricultural University, India
     year: 2008
-email: "schaudh@ncsu.edu"
+email: "sushilac@msu.edu"
 interests:
+- Specialty crops
 - Weed management
 - Herbicide resistance
 - Crop weed competition
 name: Sushila Chaudhari
 organizations:
-- name: North Carolina State University
-  url: "https://www.ncsu.edu/"
-role: Postdoctoral Research Scholar
+- name: Michigan State University
+  url: "https://www.msu.edu/"
+role: Assistant Professor
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,4 +44,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral research scholar at North Carolina State University. My research interests include integrated weed management, herbicide efficacy and carryover, crop tolerance to herbicides, crop/weed competition, weed biology, and mechanisms of herbicide resistance.
+I am an assistant professor in Department of Horticulutre at Michigan State University. My research interests include integrated weed management, herbicide efficacy and carryover, crop tolerance to herbicides, crop/weed competition, weed biology, and mechanisms of herbicide resistance. My lab's main focus is weed management in specialty crops.
